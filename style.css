@@ -1,0 +1,29 @@
+#wrapper {
+    width: 1900px;
+    margin: 0 auto;
+}
+#leftcolumn, #middlecolumn, #rightcolumn {
+    border: 1px solid white;
+    min-height: 500px;
+}
+#leftcolumn {
+    float: left;
+    width: 500px;
+}
+#middlecolumn {
+    float: left;
+    width: 500px;
+}
+#rightcolumn {
+    width: 500px;
+}
+
+.label {
+    width: 228px;
+}
+
+body {
+    font-family: helvetica, monospace;
+    margin-left: 100px;
+    margin-right: 100px;
+}
